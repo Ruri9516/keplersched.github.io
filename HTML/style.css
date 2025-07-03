@@ -1,0 +1,24 @@
+table {
+  border: 3px solid darkcyan;
+  padding: 5px;
+}
+
+th {
+  border: 3px solid yellow;
+  border-radius: 10px;
+  background-color: lightskyblue;
+  width: 250px;
+  font-size: 15px;
+}
+
+td {
+  border: 3px solid lightskyblue;
+  border-radius: 10px;
+  background-color: yellow;
+  width: 250px;
+  text-align: center;
+  font-size: 15px;
+}
+
+#recess {
+}
